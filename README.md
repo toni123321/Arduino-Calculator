@@ -1,6 +1,7 @@
 # Arduino-Calculator
 Calculator, made with Arduino and Rich Shield
 
+
 1) Idea:
 -> The calculators uses for basic Math operations - addition, substraction, multiplication, division
 
